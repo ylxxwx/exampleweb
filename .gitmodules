@@ -3,5 +3,5 @@
 	path = themes/docsy
 	url = https://github.com/google/docsy
 [submodule "ylxxwx.github.io"]
-	path = ylxxwx.github.io
+	path = public
 	url = https://github.com/ylxxwx/ylxxwx.github.io.git

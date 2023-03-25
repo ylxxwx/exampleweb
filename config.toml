@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "ylxxwx"
 
 # Language settings
 contentDir = "content/en"
@@ -60,14 +60,14 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Personal Site"
-description = "Ylxxwx home"
+title = "ylxxwx home"
+description = "a study harbor"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.cn]
-title = "Personal Site"
-description = "Ylxxwx Home"
+title = "ylxxwx home"
+description = "a study harbor"
 languageName ="Chinese"
 contentDir = "content/cn"
 time_format_default = "02.01.2006"

@@ -90,7 +90,7 @@ time_format_blog = "02.01.2006"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "The Docsy Authors"
+copyright = "The Authors"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
@@ -189,7 +189,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
-  url = "https://github.com/google/docsy"
+  url = "https://github.com/ylxxwx"
   icon = "fab fa-github"
   desc = "Development takes place here!"
 [[params.links.developer]]

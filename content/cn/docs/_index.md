@@ -1,6 +1,6 @@
 
 ---
-title: "TechOS-Documents"
+title: "Documents"
 linkTitle: "Docs"
 weight: 20
 menu:

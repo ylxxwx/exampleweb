@@ -1,9 +1,9 @@
 
 ---
-title: "DCI design for C++"
-linkTitle: "DCI"
-date: 2017-01-02
+title: "Software Design Practice"
+linkTitle: "software_design"
+date: 2023-03-25
 description: >
-  En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+  There are some software design practice in my working experience.
 ---
 

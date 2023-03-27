@@ -1,7 +1,7 @@
 
 ---
 title: "DCI Design for C++"
-linkTitle: "DCI"
+linkTitle: "DCI Design for C++"
 date: 2023-03-25
 description: >
  This is a design pratics for C++.
